@@ -17,7 +17,7 @@
       "dotenv": "^5.0.1",
       "fs": "0.0.1-security",
       "gitignore": "^0.6.0",
-      "json": "^9.0.6",
+      "json": "^10.0.0",
       "keys": "^0.1.2",
       "node-spotify-api": "^1.0.7",
       "omdbapi": "^2.0.1",
